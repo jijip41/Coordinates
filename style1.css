@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.target {
+  position: absolute;
+}
+
+.horizontal {
+  width: 100%;
+  border-top: solid 3px white;
+  position: absolute;
+}
+
+.vertical {
+  height: 100%;
+  border-left: solid 3px white;
+  position: absolute;
+}
+
+.text {
+  position: absolute;
+  color: beige;
+}
